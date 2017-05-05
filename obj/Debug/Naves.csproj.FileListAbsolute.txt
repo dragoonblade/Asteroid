@@ -1,0 +1,8 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\bin\Debug\Naves.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\bin\Debug\Naves.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Debug\Naves.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Debug\Naves.Main.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Debug\Naves.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Debug\Naves.csproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Debug\Naves.exe
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Debug\Naves.pdb

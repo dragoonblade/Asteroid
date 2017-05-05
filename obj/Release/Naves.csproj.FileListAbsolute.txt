@@ -1,0 +1,3 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Release\Naves.Main.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Release\Naves.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\Asteroids\Naves\obj\Release\Naves.csproj.GenerateResource.Cache
